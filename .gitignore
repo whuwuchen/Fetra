@@ -1,0 +1,17 @@
+out
+hopper
+Nantong
+Resources/BeiJing/Beijing.osm.pbf
+Resources/nantong.osm
+.*
+!/.gitignore
+local
+map-data
+T_set
+target
+Torch_Beijing
+Torch_Porto
+src/main/java/au/edu/rmit/trajectory/similarity
+src/main/java/au/edu/rmit/trajectory/Test
+src/test/java/au/edu/rmit/trajectory/similarity
+Torch_nantong

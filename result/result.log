@@ -1,0 +1,24 @@
+beijing trajperdevice = 200
+[2022-07-27 16:28:16:199] [INFO] - whu.edu.totemdb.STCSim.Utils.DataLoader.loadPOIDataBeiJing(DataLoader.java:36) - Load 600323 POI -  main
+[2022-07-27 16:28:41:815] [INFO] - whu.edu.totemdb.STCSim.Utils.DataLoader.loadRawTrajDataBeiJing(DataLoader.java:93) - Load 50662 raw trajectories from 0 files -  main
+[2022-07-27 16:28:47:430] [INFO] - whu.edu.totemdb.STCSim.TestCase.PBTI.GlobalIndexBuildTest.testOfBeijing(GlobalIndexBuildTest.java:63) - Build time : 0.480000 when |S| = 100 -  main
+[2022-07-27 16:28:48:207] [INFO] - whu.edu.totemdb.STCSim.TestCase.PBTI.GlobalIndexBuildTest.testOfBeijing(GlobalIndexBuildTest.java:63) - Build time : 0.753000 when |S| = 1000 -  main
+[2022-07-27 16:28:57:781] [INFO] - whu.edu.totemdb.STCSim.TestCase.PBTI.GlobalIndexBuildTest.testOfBeijing(GlobalIndexBuildTest.java:63) - Build time : 9.522000 when |S| = 10000 -  main
+[2022-07-27 16:30:33:877] [INFO] - whu.edu.totemdb.STCSim.TestCase.PBTI.GlobalIndexBuildTest.testOfBeijing(GlobalIndexBuildTest.java:63) - Build time : 95.823000 when |S| = 100000 -  main
+1000.943
+
+
+newyork trajperdevice = 1100
+git with interval tree  (100-1000000)
+[2022-07-27 21:00:23:539] [INFO] - whu.edu.totemdb.STCSim.Utils.DataLoader.readTrajFileNewYork(DataLoader.java:162) - Total poi number of New York is : 400 -  main
+[2022-07-27 21:00:23:541] [INFO] - whu.edu.totemdb.STCSim.Utils.DataLoader.readTrajFileNewYork(DataLoader.java:163) - Total user number of New York is : 1083 -  main
+[2022-07-27 21:00:23:542] [INFO] - whu.edu.totemdb.STCSim.Utils.DataLoader.readTrajFileNewYork(DataLoader.java:164) - Range of NewYork: 40.550852,40.988332,-74.274766,-73.683825 -  main
+[2022-07-27 21:00:23:612] [INFO] - whu.edu.totemdb.STCSim.Utils.DataLoader.readTrajFileNewYork(DataLoader.java:191) - Total trajectory number of New York is : 93971 -  main
+[2022-07-27 21:00:23:734] [INFO] - whu.edu.totemdb.STCSim.TestCase.PBTI.GlobalIndexBuildTest.testNewYork(GlobalIndexBuildTest.java:108) - Build time : 0.115000 when |S| = 100 -  main
+[2022-07-27 21:00:24:248] [INFO] - whu.edu.totemdb.STCSim.TestCase.PBTI.GlobalIndexBuildTest.testNewYork(GlobalIndexBuildTest.java:108) - Build time : 0.486000 when |S| = 1000 -  main
+[2022-07-27 21:00:26:275] [INFO] - whu.edu.totemdb.STCSim.TestCase.PBTI.GlobalIndexBuildTest.testNewYork(GlobalIndexBuildTest.java:108) - Build time : 2.000000 when |S| = 10000 -  main
+[2022-07-27 21:00:50:372] [INFO] - whu.edu.totemdb.STCSim.TestCase.PBTI.GlobalIndexBuildTest.testNewYork(GlobalIndexBuildTest.java:108) - Build time : 23.998000 when |S| = 100000 -  main
+
+
+
+
